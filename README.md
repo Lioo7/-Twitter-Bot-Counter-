@@ -1,3 +1,4 @@
 # Twitter-Bot-Counter
-A Twitter bot that tweets how many days have passed since Ella quit smoking 🚭
+A Twitter bot that tweets how many days have passed since people quit smoking 🚭
+<br>
 https://twitter.com/EllaSince
